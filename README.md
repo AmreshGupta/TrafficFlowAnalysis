@@ -35,7 +35,7 @@ Analyze traffic flow by counting vehicles in three lanes using computer vision.
    - Video window with overlays (press `q` to quit)
    - Summary printed in terminal
 
-## Demo Video
+## Demo Video (https://drive.google.com/file/d/1jXE5eK6AzaqxOsxNSISEC8b-CiUwfRWX/view?usp=drive_link)
 
 Record your screen while running the script and save as `demo.mp4`.
 
